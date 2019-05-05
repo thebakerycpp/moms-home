@@ -13,11 +13,14 @@ public class PlayerInteraction : MonoBehaviour
     {
         if (Input.GetButtonDown("Interact") && currentInterObj)
         {
+            Debug.Log("There was an interact for " + currentInterObj);
             if (currentInterObjScript.inventory)
             {
-                inventory.AddItem(currentInterObj);
+                Debug.Log("There was an interact for " + currentInterObj);
+                inventory.AddItem(currentInterObj);             
             }
             currentInterObj.SendMessage("DoInteraction");
+            currentInterObj = null;
         }
     }
 
@@ -29,6 +32,7 @@ public class PlayerInteraction : MonoBehaviour
             currentInterObj = other.gameObject;
             currentInterObjScript = currentInterObj.GetComponent<InteractionObject>();
         }
+        
     }
 
     void OnTriggerExit2D(Collider2D other)
