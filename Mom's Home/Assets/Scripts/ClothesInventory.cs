@@ -11,11 +11,9 @@ public class ClothesInventory : MonoBehaviour
         bool itemAdded = false;
         for (int i = 0; i < inventory.Length; i++)
         {
-            Debug.Log("In LOOP FOR " + item);
             if (inventory[i] == null)
             {
                 inventory[i] = item;
-                Debug.Log(item.name + " was added to Clothes Inventory");
                 itemAdded = true;
                 break;
             }
@@ -23,6 +21,28 @@ public class ClothesInventory : MonoBehaviour
         if (!itemAdded)
         {
             Debug.Log("Inventory full");
+        }
+    }
+    public int inventoryCount()
+    {
+        int inventoryCount = 0;
+        for (int i = 0; i < inventory.Length; i++)
+        {
+            if(inventory[i] != null)
+            {
+                inventoryCount++;
+            }
+        }
+        return inventoryCount;
+    }
+    public void deleteItem()
+    {
+        for (int i = 0; i < inventory.Length; i++)
+        {
+            if (inventory[i] != null)
+            {
+                inventory[i] = null;
+            }
         }
     }
 }

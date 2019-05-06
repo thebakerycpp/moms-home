@@ -11,11 +11,9 @@ public class Inventory : MonoBehaviour
         bool itemAdded = false;
         for(int i = 0; i < inventory.Length; i++)
         {
-            Debug.Log("In LOOP FOR " + item);
             if(inventory[i] == null)
             {
                 inventory[i] = item;
-                Debug.Log(item.name + " was added");
                 itemAdded = true;
                 break;
             }
