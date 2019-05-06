@@ -527,6 +527,8 @@ GameObject:
   - component: {fileID: 1424842243}
   - component: {fileID: 1424842242}
   - component: {fileID: 1424842244}
+  - component: {fileID: 1424842246}
+  - component: {fileID: 1424842245}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -690,6 +692,8 @@ MonoBehaviour:
   currentInterObj: {fileID: 0}
   currentInterObjScript: {fileID: 0}
   inventory: {fileID: 1424842244}
+  clothesInventory: {fileID: 1424842245}
+  kitchenwareInventory: {fileID: 1424842246}
 --- !u!58 &1424842243
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -734,6 +738,62 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+--- !u!114 &1424842245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424842235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16afb98040b1bf64c966c4629a85ce6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &1424842246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424842235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 135c881317362c64bb002e20c99614ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &1451548258
 GameObject:
   m_ObjectHideFlags: 0
@@ -748,7 +808,7 @@ GameObject:
   - component: {fileID: 1451548259}
   m_Layer: 0
   m_Name: New Sprite (1)
-  m_TagString: interObject
+  m_TagString: kitchenware
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -858,7 +918,7 @@ GameObject:
   - component: {fileID: 1477382749}
   m_Layer: 0
   m_Name: New Sprite (4)
-  m_TagString: interObject
+  m_TagString: clothes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - interObject
+  - clothes
+  - kitchenware
   layers:
   - Default
   - TransparentFX
