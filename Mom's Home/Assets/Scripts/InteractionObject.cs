@@ -6,10 +6,20 @@ public class InteractionObject : MonoBehaviour
 {
 
     public bool inventory;
+    public AudioSource soundSource;
 
     public void DoInteraction()
     {
         //Picked up and put in inventory
-        gameObject.SetActive(false);
+        if(tag == "washingMachine")
+        {
+            soundSource = GetComponent<AudioSource>();
+            soundSource.Play();
+        }
+        else
+        {
+            gameObject.SetActive(false);
+        }
+       
     }
 }

@@ -44,7 +44,10 @@ public class PlayerInteraction : MonoBehaviour
                 }
                 else
                 {
+                    
+
                     Debug.Log("Deposited clothes in washing machine, this will take some time...");
+                    currentInterObj.SendMessage("DoInteraction");
                     for(int i = 0; i < 5; i++)
                     {
                         clothesInventory.deleteItem();
