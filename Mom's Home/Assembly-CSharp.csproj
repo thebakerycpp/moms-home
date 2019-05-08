@@ -54,7 +54,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraMovement.cs" />
+     <Compile Include="Assets\Scripts\CleanDishBehavior.cs" />
      <Compile Include="Assets\Scripts\ClothesInventory.cs" />
+     <Compile Include="Assets\Scripts\DirtyDishBehavior.cs" />
      <Compile Include="Assets\Scripts\FoodBehavior.cs" />
      <Compile Include="Assets\Scripts\FoodInventory.cs" />
      <Compile Include="Assets\Scripts\InteractionObject.cs" />
@@ -65,6 +67,7 @@
      <Compile Include="Assets\Scripts\PlayerInteraction.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\PotInteraction.cs" />
+     <Compile Include="Assets\Scripts\SinkBehavior.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\CircleObject.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GPUInstancing.cs" />
@@ -103,19 +106,19 @@
      <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
      <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -319,13 +322,13 @@
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/Users/Steven Marrero/Desktop/moms-home-bennett/Mom&apos;s Home/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>D:/Users/Steven Marrero/Documents/GitHub/game-dev-moms-home/Mom&apos;s Home/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

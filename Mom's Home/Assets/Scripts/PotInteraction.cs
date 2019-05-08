@@ -44,6 +44,10 @@ public class PotInteraction : MonoBehaviour
                 servings = 2;
             }
         }
+        else if(servings > 0)
+        {
+            sr.sprite = fullPot;
+        }
         else
             cooking = false;
 
@@ -71,5 +75,9 @@ public class PotInteraction : MonoBehaviour
         servings--;
         if (servings == 0)
             sr.sprite = emptyPot;
+        else
+        {
+            sr.sprite = emptyPot;
+        }
     }
 }

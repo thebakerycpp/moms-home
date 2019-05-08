@@ -4,16 +4,26 @@ using UnityEngine;
 
 public class PlateBehavior : MonoBehaviour
 {
-    bool served;
+    bool clean;
     // Start is called before the first frame update
     void Start()
     {
-        served = false;
+        clean = false;
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    public void setClean()
+    {
+        clean = true;
+    }
+
+    public bool isClean()
+    {
+        return clean;
     }
 }
