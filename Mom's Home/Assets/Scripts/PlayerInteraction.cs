@@ -14,6 +14,10 @@ public class PlayerInteraction : MonoBehaviour
     public PlateInventory plateInventory;
     public DirtyDishBehavior dirtyDishes;
     public CleanDishBehavior cleanDishes;
+    public AudioClip dishSound;
+    public AudioClip itemSound;
+    public AudioClip ingredientSound1;
+    public AudioClip ingredientSound2;
     public AudioSource soundSource;
 
     void Start()
@@ -35,6 +39,7 @@ public class PlayerInteraction : MonoBehaviour
             else if (currentInterObjScript.inventory && currentInterObj.CompareTag("clothes"))
             {
                 clothesInventory.AddItem(currentInterObj);
+                soundSource.clip = itemSound;
                 soundSource.Play();
                 Debug.Log("Clothes picked up");
                 currentInterObj.SendMessage("DoInteraction");
@@ -42,6 +47,7 @@ public class PlayerInteraction : MonoBehaviour
             else if (currentInterObjScript.inventory && currentInterObj.CompareTag("ingredient"))
             {
                 foodInventory.AddItem(currentInterObj);
+                soundSource.clip = ingredientSound2;
                 soundSource.Play();
                 Debug.Log("Ingredient picked up");
                 currentInterObj.SendMessage("DoInteraction");
@@ -49,6 +55,7 @@ public class PlayerInteraction : MonoBehaviour
             else if (currentInterObjScript.inventory && currentInterObj.CompareTag("plate"))
             {
                 plateInventory.AddItem(currentInterObj);
+                soundSource.clip = dishSound;
                 soundSource.Play();
                 Debug.Log("Plate picked up");
                 currentInterObj.SendMessage("DoInteraction");
@@ -64,7 +71,6 @@ public class PlayerInteraction : MonoBehaviour
                 else
                 {
                     Debug.Log("Deposited clothes in washing machine, this will take some time...");
-                    currentInterObj.SendMessage("DoInteraction");
                     for (int i = 0; i < 5; i++)
                     {
                         clothesInventory.deleteItem();
@@ -92,6 +98,8 @@ public class PlayerInteraction : MonoBehaviour
                 }
                 else
                 {
+                    soundSource.clip = ingredientSound1;
+                    soundSource.Play();
                     Debug.Log("Cooking food, this will take some time...");
                     foodInventory.deleteItem();
                     cookingPot.startTimer();

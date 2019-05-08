@@ -13,6 +13,8 @@ public class PotInteraction : MonoBehaviour
     public Sprite fullPot;
     public Sprite emptyPot;
     public SpriteRenderer sr;
+    public AudioClip bell_sound;
+    public AudioSource soundSource;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,7 @@ public class PotInteraction : MonoBehaviour
         timer = 0;
         cooking = false;
         sr = GetComponent<SpriteRenderer>();
+        soundSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -29,7 +32,8 @@ public class PotInteraction : MonoBehaviour
             timer--;
         else if (timer == 0 && cooking)
         {
-            //play sound
+            soundSource.clip = bell_sound;
+            soundSource.Play();
             itemCount++;
             cooking = false;
             if(itemCount < 5)
