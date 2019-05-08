@@ -1,10 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
-<<<<<<< HEAD
 --- !u!1 &206466011426676482
-=======
---- !u!1 &74927080192682647
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -12,15 +8,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 5154813598803000155}
   - component: {fileID: 5633946606198793502}
   - component: {fileID: 3089740212948999166}
-=======
-  - component: {fileID: 4531550597502406710}
-  - component: {fileID: 973883857099147392}
-  - component: {fileID: 7983780166876790412}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -28,17 +18,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &5154813598803000155
-=======
---- !u!4 &4531550597502406710
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 206466011426676482}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 31.9444, y: -31.25, z: 0}
@@ -48,33 +33,17 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5633946606198793502
-=======
-  m_GameObject: {fileID: 74927080192682647}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 272.917, y: -305.556, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 20
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &973883857099147392
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 206466011426676482}
-=======
-  m_GameObject: {fileID: 74927080192682647}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 19
   TmxName: 
   TmxType: 
@@ -82,36 +51,19 @@ MonoBehaviour:
   TmxSize: {x: 31.25, y: 46.5278}
   TmxRotation: 0
 --- !u!61 &3089740212948999166
-=======
-  TmxId: 18
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 272.917, y: 305.556}
-  TmxSize: {x: 45.8333, y: 45.8333}
-  TmxRotation: 0
---- !u!61 &7983780166876790412
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 206466011426676482}
-=======
-  m_GameObject: {fileID: 74927080192682647}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 15.625, y: -23.2639}
-=======
-  m_Offset: {x: 22.91665, y: -22.91665}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -122,11 +74,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 31.25, y: 46.5278}
-=======
-  m_Size: {x: 45.8333, y: 45.8333}
->>>>>>> origin/new-bennett
   m_EdgeRadius: 0
 --- !u!1 &247031509196451638
 GameObject:
@@ -156,11 +104,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-<<<<<<< HEAD
   - {fileID: 5169212054933148745}
-=======
-  - {fileID: 7450735019479700894}
->>>>>>> origin/new-bennett
   m_Father: {fileID: 8404595244397221095}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -177,11 +121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Offset: {x: 0, y: 0}
-<<<<<<< HEAD
 --- !u!1 &598864429837376528
-=======
---- !u!1 &344441390799596218
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,34 +129,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 3913944763846928651}
   - component: {fileID: 7197768524195839590}
   - component: {fileID: 7151844804714977639}
-=======
-  - component: {fileID: 7450735019479700894}
-  - component: {fileID: 9098544169014376511}
-  - component: {fileID: 8817519980693647108}
-  - component: {fileID: 6022485511625174183}
->>>>>>> origin/new-bennett
   m_Layer: 0
-  m_Name: Inner
+  m_Name: RectangleObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &3913944763846928651
-=======
---- !u!4 &7450735019479700894
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 598864429837376528}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 272.917, y: -305.556, z: 0}
@@ -227,31 +155,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7197768524195839590
 MonoBehaviour:
-=======
-  m_GameObject: {fileID: 344441390799596218}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 8094789577056208415}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &9098544169014376511
-MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 344441390799596218}
-  m_Mesh: {fileID: 4300000, guid: 51f2f9370a03f4ab88c8765718a12694, type: 3}
---- !u!23 &8817519980693647108
-MeshRenderer:
->>>>>>> origin/new-bennett
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 598864429837376528}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -266,46 +173,10 @@ MeshRenderer:
   TmxRotation: 0
 --- !u!61 &7151844804714977639
 BoxCollider2D:
-=======
-  m_GameObject: {fileID: 344441390799596218}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 0
-  m_ReflectionProbeUsage: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a1e4ec3162fb744a18e0046f6f30bd35, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 2
---- !u!114 &6022485511625174183
-MonoBehaviour:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 598864429837376528}
   m_Enabled: 1
   m_Density: 1
@@ -327,15 +198,6 @@ MonoBehaviour:
   m_Size: {x: 45.8333, y: 45.8333}
   m_EdgeRadius: 0
 --- !u!1 &619417771172098966
-=======
-  m_GameObject: {fileID: 344441390799596218}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1 &348106548873394756
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -343,16 +205,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 5169212054933148745}
   - component: {fileID: 2470388584964622536}
   - component: {fileID: 7869504597480902159}
   - component: {fileID: 5594539507504194622}
-=======
-  - component: {fileID: 4718497927417006354}
-  - component: {fileID: 2640873545338183029}
-  - component: {fileID: 4953110679582583159}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: Inner
   m_TagString: Untagged
@@ -360,17 +216,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &5169212054933148745
-=======
---- !u!4 &4718497927417006354
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 619417771172098966}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -389,23 +240,10 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 51f2f9370a03f4ab88c8765718a12694, type: 3}
 --- !u!23 &7869504597480902159
 MeshRenderer:
-=======
-  m_GameObject: {fileID: 348106548873394756}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 80.5556, y: -288.194, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 16
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2640873545338183029
-MonoBehaviour:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 619417771172098966}
   m_Enabled: 1
   m_CastShadows: 0
@@ -439,27 +277,10 @@ MonoBehaviour:
   m_SortingOrder: 2
 --- !u!114 &5594539507504194622
 MonoBehaviour:
-=======
-  m_GameObject: {fileID: 348106548873394756}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TmxId: 10
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 80.5556, y: 288.194}
-  TmxSize: {x: 47.2222, y: 45.8333}
-  TmxRotation: 0
---- !u!61 &4953110679582583159
-BoxCollider2D:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 619417771172098966}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -467,29 +288,6 @@ BoxCollider2D:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &728699864535174889
-=======
-  m_GameObject: {fileID: 348106548873394756}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 23.6111, y: -22.91665}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 47.2222, y: 45.8333}
-  m_EdgeRadius: 0
---- !u!1 &367755833995595045
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -497,15 +295,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 133518891165745311}
   - component: {fileID: 3614277715024721668}
   - component: {fileID: 7526708337731924275}
-=======
-  - component: {fileID: 3229740354697872722}
-  - component: {fileID: 5761982053857893208}
-  - component: {fileID: 7796224734014812567}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -513,17 +305,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &133518891165745311
-=======
---- !u!4 &3229740354697872722
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 728699864535174889}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.694444, y: -1.38889, z: 0}
@@ -533,33 +320,17 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3614277715024721668
-=======
-  m_GameObject: {fileID: 367755833995595045}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 159.722, y: -208.333, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 13
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5761982053857893208
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 728699864535174889}
-=======
-  m_GameObject: {fileID: 367755833995595045}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 2
   TmxName: 
   TmxType: 
@@ -567,36 +338,19 @@ MonoBehaviour:
   TmxSize: {x: 395.833, y: 13.1944}
   TmxRotation: 0
 --- !u!61 &7526708337731924275
-=======
-  TmxId: 17
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 159.722, y: 208.333}
-  TmxSize: {x: 95.1389, y: 16.6667}
-  TmxRotation: 0
---- !u!61 &7796224734014812567
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 728699864535174889}
-=======
-  m_GameObject: {fileID: 367755833995595045}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 197.9165, y: -6.5972}
-=======
-  m_Offset: {x: 47.56945, y: -8.33335}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -607,15 +361,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 395.833, y: 13.1944}
   m_EdgeRadius: 0
 --- !u!1 &1067049365275028950
-=======
-  m_Size: {x: 95.1389, y: 16.6667}
-  m_EdgeRadius: 0
---- !u!1 &682305989361305836
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -623,15 +371,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 4232437385028700066}
   - component: {fileID: 7877531941561202033}
   - component: {fileID: 321016452740409592}
-=======
-  - component: {fileID: 1311170696331517580}
-  - component: {fileID: 7152163762306163808}
-  - component: {fileID: 5199959402033187249}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -639,76 +381,52 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &4232437385028700066
-=======
---- !u!4 &1311170696331517580
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1067049365275028950}
-=======
-  m_GameObject: {fileID: 682305989361305836}
->>>>>>> origin/new-bennett
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 240.972, y: -16.6667, z: 0}
+  m_LocalPosition: {x: 207.639, y: -288.194, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 6
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!114 &7877531941561202033
-=======
---- !u!114 &7152163762306163808
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1067049365275028950}
-=======
-  m_GameObject: {fileID: 682305989361305836}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TmxId: 23
+  TmxId: 5
   TmxName: 
   TmxType: 
-  TmxPosition: {x: 240.972, y: 16.6667}
-  TmxSize: {x: 46.5278, y: 45.8333}
+  TmxPosition: {x: 207.639, y: 288.194}
+  TmxSize: {x: 15.9722, y: 113.194}
   TmxRotation: 0
-<<<<<<< HEAD
 --- !u!61 &321016452740409592
-=======
---- !u!61 &5199959402033187249
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1067049365275028950}
-=======
-  m_GameObject: {fileID: 682305989361305836}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 23.2639, y: -22.91665}
+  m_Offset: {x: 7.9861, y: -56.597}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -719,13 +437,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 46.5278, y: 45.8333}
+  m_Size: {x: 15.9722, y: 113.194}
   m_EdgeRadius: 0
-<<<<<<< HEAD
 --- !u!1 &2106308147185504731
-=======
---- !u!1 &803192153367222118
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -733,14 +447,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 4604450122659298066}
   - component: {fileID: 9079929461539761070}
-=======
-  - component: {fileID: 2924338451828490016}
-  - component: {fileID: 2871627198670032003}
-  - component: {fileID: 195375672263838698}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: collision mask
   m_TagString: Untagged
@@ -748,17 +456,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &4604450122659298066
-=======
---- !u!4 &2924338451828490016
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2106308147185504731}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -792,71 +495,20 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &9079929461539761070
-=======
-  m_GameObject: {fileID: 803192153367222118}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.9722, y: -288.889, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2871627198670032003
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2106308147185504731}
-=======
-  m_GameObject: {fileID: 803192153367222118}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b4529e6d50e7df746bb0157362724759, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   Offset: {x: 0, y: 0}
   Color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
 --- !u!1 &2811125981677815222
-=======
-  TmxId: 7
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 15.9722, y: 288.889}
-  TmxSize: {x: 15.9722, y: 61.8056}
-  TmxRotation: 0
---- !u!61 &195375672263838698
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 803192153367222118}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 7.9861, y: -30.9028}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 15.9722, y: 61.8056}
-  m_EdgeRadius: 0
---- !u!1 &983234511437364041
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -864,34 +516,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 7482533661007943848}
   - component: {fileID: 5364996991679076891}
   - component: {fileID: 1980806400519236210}
-=======
-  - component: {fileID: 2861653063515008307}
-  - component: {fileID: 1553016222681478989}
-  - component: {fileID: 2985682766870144835}
-  - component: {fileID: 2692973841429231049}
->>>>>>> origin/new-bennett
   m_Layer: 0
-  m_Name: Inner
+  m_Name: RectangleObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &7482533661007943848
-=======
---- !u!4 &2861653063515008307
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2811125981677815222}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 223.611, y: -2.08333, z: 0}
@@ -902,31 +542,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5364996991679076891
 MonoBehaviour:
-=======
-  m_GameObject: {fileID: 983234511437364041}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 752005575469281772}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &1553016222681478989
-MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 983234511437364041}
-  m_Mesh: {fileID: 4300000, guid: cba9c5f456a6c458b8b2f2f6f5f22032, type: 3}
---- !u!23 &2985682766870144835
-MeshRenderer:
->>>>>>> origin/new-bennett
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2811125981677815222}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -941,46 +560,10 @@ MeshRenderer:
   TmxRotation: 0
 --- !u!61 &1980806400519236210
 BoxCollider2D:
-=======
-  m_GameObject: {fileID: 983234511437364041}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 0
-  m_ReflectionProbeUsage: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a1e4ec3162fb744a18e0046f6f30bd35, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
---- !u!114 &2692973841429231049
-MonoBehaviour:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2811125981677815222}
   m_Enabled: 1
   m_Density: 1
@@ -1002,15 +585,6 @@ MonoBehaviour:
   m_Size: {x: 15.9722, y: 127.083}
   m_EdgeRadius: 0
 --- !u!1 &2854903255514719333
-=======
-  m_GameObject: {fileID: 983234511437364041}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1 &1770658953047037996
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1018,15 +592,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 5994539870623680116}
   - component: {fileID: 3352889446241107478}
   - component: {fileID: 733424281099473192}
-=======
-  - component: {fileID: 400476965444999621}
-  - component: {fileID: 3434879499730547669}
-  - component: {fileID: 4104457806769315083}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -1034,17 +602,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &5994539870623680116
-=======
---- !u!4 &400476965444999621
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2854903255514719333}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 335.417, y: -33.3333, z: 0}
@@ -1054,33 +617,17 @@ Transform:
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3352889446241107478
-=======
-  m_GameObject: {fileID: 1770658953047037996}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.694444, y: -384.028, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 23
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3434879499730547669
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2854903255514719333}
-=======
-  m_GameObject: {fileID: 1770658953047037996}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 25
   TmxName: 
   TmxType: 
@@ -1088,36 +635,19 @@ MonoBehaviour:
   TmxSize: {x: 33.3333, y: 44.4444}
   TmxRotation: 0
 --- !u!61 &733424281099473192
-=======
-  TmxId: 4
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: -0.694444, y: 384.028}
-  TmxSize: {x: 336.806, y: 17.3611}
-  TmxRotation: 0
---- !u!61 &4104457806769315083
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 2854903255514719333}
-=======
-  m_GameObject: {fileID: 1770658953047037996}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 16.66665, y: -22.2222}
-=======
-  m_Offset: {x: 168.403, y: -8.68055}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1128,15 +658,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 33.3333, y: 44.4444}
   m_EdgeRadius: 0
 --- !u!1 &2982017788433768129
-=======
-  m_Size: {x: 336.806, y: 17.3611}
-  m_EdgeRadius: 0
---- !u!1 &1810248660798027259
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1144,7 +668,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 3924988573012820048}
   - component: {fileID: 8266279343035103813}
   - component: {fileID: 8876319809905487331}
@@ -1225,11 +748,6 @@ GameObject:
   - component: {fileID: 7525358889518419364}
   - component: {fileID: 947839171540789551}
   - component: {fileID: 8110807422028737592}
-=======
-  - component: {fileID: 5985918918499065594}
-  - component: {fileID: 4921803603354609363}
-  - component: {fileID: 3021761757182452999}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: Inner
   m_TagString: Untagged
@@ -1237,17 +755,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &734031521203924171
-=======
---- !u!4 &5985918918499065594
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3330885972540767854}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1258,48 +771,18 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7525358889518419364
 MeshFilter:
-=======
-  m_GameObject: {fileID: 1810248660798027259}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 97.2222, y: -332.639, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 21
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4921803603354609363
-MonoBehaviour:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3330885972540767854}
   m_Mesh: {fileID: 4300000, guid: e8e247596e7c74f11a2bdb615657a28f, type: 3}
 --- !u!23 &947839171540789551
 MeshRenderer:
-=======
-  m_GameObject: {fileID: 1810248660798027259}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TmxId: 12
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 97.2222, y: 332.639}
-  TmxSize: {x: 13.8889, y: 24.3056}
-  TmxRotation: 0
---- !u!61 &3021761757182452999
-BoxCollider2D:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3330885972540767854}
   m_Enabled: 1
   m_CastShadows: 0
@@ -1344,29 +827,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &3500860994916640427
-=======
-  m_GameObject: {fileID: 1810248660798027259}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 6.94445, y: -12.1528}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 13.8889, y: 24.3056}
-  m_EdgeRadius: 0
---- !u!1 &2014220122836623794
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1374,15 +834,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 4458954220312289364}
   - component: {fileID: 4543071005006012918}
   - component: {fileID: 8362298408439342861}
-=======
-  - component: {fileID: 6569994574642851671}
-  - component: {fileID: 1816940354758930501}
-  - component: {fileID: 8510792485084782383}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -1390,17 +844,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &4458954220312289364
-=======
---- !u!4 &6569994574642851671
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3500860994916640427}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 240.972, y: -16.6667, z: 0}
@@ -1410,33 +859,17 @@ Transform:
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4543071005006012918
-=======
-  m_GameObject: {fileID: 2014220122836623794}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 223.611, y: -2.08333, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1816940354758930501
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3500860994916640427}
-=======
-  m_GameObject: {fileID: 2014220122836623794}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 23
   TmxName: 
   TmxType: 
@@ -1444,36 +877,19 @@ MonoBehaviour:
   TmxSize: {x: 46.5278, y: 45.8333}
   TmxRotation: 0
 --- !u!61 &8362298408439342861
-=======
-  TmxId: 22
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 223.611, y: 2.08333}
-  TmxSize: {x: 15.9722, y: 127.083}
-  TmxRotation: 0
---- !u!61 &8510792485084782383
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3500860994916640427}
-=======
-  m_GameObject: {fileID: 2014220122836623794}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 23.2639, y: -22.91665}
-=======
-  m_Offset: {x: 7.9861, y: -63.5415}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1484,14 +900,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 46.5278, y: 45.8333}
   m_EdgeRadius: 0
 --- !u!1 &3533043484524905088
-=======
-  m_Size: {x: 15.9722, y: 127.083}
-  m_EdgeRadius: 0
---- !u!1 &2106308147185504731
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1499,85 +910,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4604450122659298066}
-  - component: {fileID: 9079929461539761070}
-  m_Layer: 0
-  m_Name: collision mask
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4604450122659298066
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2106308147185504731}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 95162154118023448}
-  - {fileID: 6569994574642851671}
-  - {fileID: 7940301873282176821}
-  - {fileID: 2084080694951624842}
-  - {fileID: 8841539062812022768}
-  - {fileID: 1387472638381890048}
-  - {fileID: 1311170696331517580}
-  - {fileID: 6816174456433707375}
-  - {fileID: 3106676943630921193}
-  - {fileID: 1112785321651923793}
-  - {fileID: 6577499303127547696}
-  - {fileID: 4199150484419223530}
-  - {fileID: 653836980130622835}
-  - {fileID: 3229740354697872722}
-  - {fileID: 3372920239099417809}
-  - {fileID: 1427255718385103885}
-  - {fileID: 4718497927417006354}
-  - {fileID: 2924338451828490016}
-  - {fileID: 6678415792447191779}
-  - {fileID: 3353676698059806316}
-  - {fileID: 4531550597502406710}
-  - {fileID: 5985918918499065594}
-  - {fileID: 8592648686264712137}
-  - {fileID: 400476965444999621}
-  m_Father: {fileID: 8404595244397221095}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9079929461539761070
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2106308147185504731}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4529e6d50e7df746bb0157362724759, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Offset: {x: 0, y: 0}
-  Color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
---- !u!1 &2165673099698983555
->>>>>>> origin/new-bennett
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-<<<<<<< HEAD
   - component: {fileID: 3532255626494291183}
   - component: {fileID: 2250198776517019448}
   - component: {fileID: 7346035488058012255}
-=======
-  - component: {fileID: 8841539062812022768}
-  - component: {fileID: 893692112783800952}
-  - component: {fileID: 4070956866148100187}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -1585,17 +920,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &3532255626494291183
-=======
---- !u!4 &8841539062812022768
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3533043484524905088}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 160.417, y: -15.2778, z: 0}
@@ -1605,33 +935,17 @@ Transform:
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2250198776517019448
-=======
-  m_GameObject: {fileID: 2165673099698983555}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 80.5556, y: -15.2778, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &893692112783800952
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3533043484524905088}
-=======
-  m_GameObject: {fileID: 2165673099698983555}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 21
   TmxName: 
   TmxType: 
@@ -1639,36 +953,19 @@ MonoBehaviour:
   TmxSize: {x: 47.2222, y: 32.6389}
   TmxRotation: 0
 --- !u!61 &7346035488058012255
-=======
-  TmxId: 20
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 80.5556, y: 15.2778}
-  TmxSize: {x: 46.5278, y: 46.5278}
-  TmxRotation: 0
---- !u!61 &4070956866148100187
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3533043484524905088}
-=======
-  m_GameObject: {fileID: 2165673099698983555}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 23.6111, y: -16.31945}
-=======
-  m_Offset: {x: 23.2639, y: -23.2639}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1679,15 +976,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 47.2222, y: 32.6389}
   m_EdgeRadius: 0
 --- !u!1 &3597175669267937472
-=======
-  m_Size: {x: 46.5278, y: 46.5278}
-  m_EdgeRadius: 0
---- !u!1 &2232702051753940211
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1695,15 +986,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 4943757843432045974}
   - component: {fileID: 3258182286391733336}
   - component: {fileID: 8886911251123521923}
-=======
-  - component: {fileID: 3372920239099417809}
-  - component: {fileID: 4362170852525274089}
-  - component: {fileID: 352876165524336337}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -1711,17 +996,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &4943757843432045974
-=======
---- !u!4 &3372920239099417809
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3597175669267937472}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 304.167, y: -31.9444, z: 0}
@@ -1731,33 +1011,17 @@ Transform:
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3258182286391733336
-=======
-  m_GameObject: {fileID: 2232702051753940211}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 97.2222, y: -261.806, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4362170852525274089
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3597175669267937472}
-=======
-  m_GameObject: {fileID: 2232702051753940211}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 24
   TmxName: 
   TmxType: 
@@ -1765,36 +1029,19 @@ MonoBehaviour:
   TmxSize: {x: 29.8611, y: 31.9444}
   TmxRotation: 0
 --- !u!61 &8886911251123521923
-=======
-  TmxId: 8
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 97.2222, y: 261.806}
-  TmxSize: {x: 13.8889, y: 26.3889}
-  TmxRotation: 0
---- !u!61 &352876165524336337
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3597175669267937472}
-=======
-  m_GameObject: {fileID: 2232702051753940211}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 14.93055, y: -15.9722}
-=======
-  m_Offset: {x: 6.94445, y: -13.19445}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1805,15 +1052,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 29.8611, y: 31.9444}
   m_EdgeRadius: 0
 --- !u!1 &3705298346343851084
-=======
-  m_Size: {x: 13.8889, y: 26.3889}
-  m_EdgeRadius: 0
---- !u!1 &2572647535401681661
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1821,15 +1062,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 3539163872477754048}
   - component: {fileID: 72427058905898222}
   - component: {fileID: 7089143074458199086}
-=======
-  - component: {fileID: 95162154118023448}
-  - component: {fileID: 2648445146387572123}
-  - component: {fileID: 892208119371073235}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -1837,17 +1072,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &3539163872477754048
-=======
---- !u!4 &95162154118023448
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3705298346343851084}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 159.722, y: -208.333, z: 0}
@@ -1857,33 +1087,17 @@ Transform:
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &72427058905898222
-=======
-  m_GameObject: {fileID: 2572647535401681661}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.694444, y: -1.38889, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2648445146387572123
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3705298346343851084}
-=======
-  m_GameObject: {fileID: 2572647535401681661}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 17
   TmxName: 
   TmxType: 
@@ -1891,36 +1105,19 @@ MonoBehaviour:
   TmxSize: {x: 95.1389, y: 16.6667}
   TmxRotation: 0
 --- !u!61 &7089143074458199086
-=======
-  TmxId: 2
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 0.694444, y: 1.38889}
-  TmxSize: {x: 395.833, y: 13.1944}
-  TmxRotation: 0
---- !u!61 &892208119371073235
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 3705298346343851084}
-=======
-  m_GameObject: {fileID: 2572647535401681661}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 47.56945, y: -8.33335}
-=======
-  m_Offset: {x: 197.9165, y: -6.5972}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1931,15 +1128,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 95.1389, y: 16.6667}
   m_EdgeRadius: 0
 --- !u!1 &4555330802012043001
-=======
-  m_Size: {x: 395.833, y: 13.1944}
-  m_EdgeRadius: 0
---- !u!1 &4180589503451826218
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1947,15 +1138,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 8638681677449128017}
   - component: {fileID: 5330157987140469962}
   - component: {fileID: 982515902497992068}
-=======
-  - component: {fileID: 1112785321651923793}
-  - component: {fileID: 3010947908599676000}
-  - component: {fileID: 1548787109163637302}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -1963,17 +1148,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &8638681677449128017
-=======
---- !u!4 &1112785321651923793
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 4555330802012043001}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.694444, y: -384.028, z: 0}
@@ -1983,33 +1163,17 @@ Transform:
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5330157987140469962
-=======
-  m_GameObject: {fileID: 4180589503451826218}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 335.417, y: -33.3333, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3010947908599676000
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 4555330802012043001}
-=======
-  m_GameObject: {fileID: 4180589503451826218}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 4
   TmxName: 
   TmxType: 
@@ -2017,36 +1181,19 @@ MonoBehaviour:
   TmxSize: {x: 336.806, y: 17.3611}
   TmxRotation: 0
 --- !u!61 &982515902497992068
-=======
-  TmxId: 25
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 335.417, y: 33.3333}
-  TmxSize: {x: 33.3333, y: 44.4444}
-  TmxRotation: 0
---- !u!61 &1548787109163637302
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 4555330802012043001}
-=======
-  m_GameObject: {fileID: 4180589503451826218}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 168.403, y: -8.68055}
-=======
-  m_Offset: {x: 16.66665, y: -22.2222}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2057,15 +1204,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 336.806, y: 17.3611}
   m_EdgeRadius: 0
 --- !u!1 &4578648453188875680
-=======
-  m_Size: {x: 33.3333, y: 44.4444}
-  m_EdgeRadius: 0
---- !u!1 &4500033504611318321
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2073,15 +1214,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 2874092875530562595}
   - component: {fileID: 5449028163480400152}
   - component: {fileID: 2786396565471145963}
-=======
-  - component: {fileID: 653836980130622835}
-  - component: {fileID: 5278704988670195219}
-  - component: {fileID: 3882682228027581840}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -2089,17 +1224,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &2874092875530562595
-=======
---- !u!4 &653836980130622835
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 4578648453188875680}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 129.167, y: -294.444, z: 0}
@@ -2109,33 +1239,17 @@ Transform:
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5449028163480400152
-=======
-  m_GameObject: {fileID: 4500033504611318321}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 176.389, y: -146.528, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 12
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5278704988670195219
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 4578648453188875680}
-=======
-  m_GameObject: {fileID: 4500033504611318321}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 11
   TmxName: 
   TmxType: 
@@ -2143,36 +1257,19 @@ MonoBehaviour:
   TmxSize: {x: 13.8889, y: 34.0278}
   TmxRotation: 0
 --- !u!61 &2786396565471145963
-=======
-  TmxId: 15
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 176.389, y: 146.528}
-  TmxSize: {x: 14.5833, y: 38.1944}
-  TmxRotation: 0
---- !u!61 &3882682228027581840
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 4578648453188875680}
-=======
-  m_GameObject: {fileID: 4500033504611318321}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 6.94445, y: -17.0139}
-=======
-  m_Offset: {x: 7.29165, y: -19.0972}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2183,11 +1280,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 13.8889, y: 34.0278}
-=======
-  m_Size: {x: 14.5833, y: 38.1944}
->>>>>>> origin/new-bennett
   m_EdgeRadius: 0
 --- !u!1 &4596724466147085314
 GameObject:
@@ -2279,7 +1372,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
 --- !u!1 &5132420362783300894
 GameObject:
   m_ObjectHideFlags: 0
@@ -2356,8 +1448,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 16.6667, y: 396.528}
   m_EdgeRadius: 0
-=======
->>>>>>> origin/new-bennett
 --- !u!1 &5133028953291780077
 GameObject:
   m_ObjectHideFlags: 0
@@ -2386,11 +1476,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-<<<<<<< HEAD
   - {fileID: 14041614152337295}
-=======
-  - {fileID: 2861653063515008307}
->>>>>>> origin/new-bennett
   m_Father: {fileID: 8404595244397221095}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2407,11 +1493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Offset: {x: 0, y: 0}
-<<<<<<< HEAD
 --- !u!1 &5673535135485307034
-=======
---- !u!1 &5642311585488729498
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2419,15 +1501,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 273487961589413797}
   - component: {fileID: 964197783511754120}
   - component: {fileID: 6054401889975801738}
-=======
-  - component: {fileID: 8592648686264712137}
-  - component: {fileID: 8269994104351280309}
-  - component: {fileID: 6493243797623626989}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -2435,17 +1511,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &273487961589413797
-=======
---- !u!4 &8592648686264712137
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 5673535135485307034}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 97.2222, y: -332.639, z: 0}
@@ -2455,33 +1526,17 @@ Transform:
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &964197783511754120
-=======
-  m_GameObject: {fileID: 5642311585488729498}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 176.389, y: -368.056, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 22
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8269994104351280309
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 5673535135485307034}
-=======
-  m_GameObject: {fileID: 5642311585488729498}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 12
   TmxName: 
   TmxType: 
@@ -2489,36 +1544,19 @@ MonoBehaviour:
   TmxSize: {x: 13.8889, y: 24.3056}
   TmxRotation: 0
 --- !u!61 &6054401889975801738
-=======
-  TmxId: 26
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 176.389, y: 368.056}
-  TmxSize: {x: 29.1667, y: 15.9722}
-  TmxRotation: 0
---- !u!61 &6493243797623626989
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 5673535135485307034}
-=======
-  m_GameObject: {fileID: 5642311585488729498}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 6.94445, y: -12.1528}
-=======
-  m_Offset: {x: 14.58335, y: -7.9861}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2529,15 +1567,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 13.8889, y: 24.3056}
   m_EdgeRadius: 0
 --- !u!1 &5845420510230249743
-=======
-  m_Size: {x: 29.1667, y: 15.9722}
-  m_EdgeRadius: 0
---- !u!1 &5720936970857394275
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2545,15 +1577,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 5768036956202041882}
   - component: {fileID: 603073420594213609}
   - component: {fileID: 2178146127177099987}
-=======
-  - component: {fileID: 1427255718385103885}
-  - component: {fileID: 8700600293849088770}
-  - component: {fileID: 8155080807825388989}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -2561,17 +1587,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &5768036956202041882
-=======
---- !u!4 &1427255718385103885
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 5845420510230249743}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 15.9722, y: -288.889, z: 0}
@@ -2582,41 +1603,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &603073420594213609
 MonoBehaviour:
-=======
-  m_GameObject: {fileID: 5720936970857394275}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 207.639, y: -288.194, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 15
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8700600293849088770
-MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5720936970857394275}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TmxId: 5
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 207.639, y: 288.194}
-  TmxSize: {x: 15.9722, y: 113.194}
-  TmxRotation: 0
---- !u!61 &8155080807825388989
-BoxCollider2D:
->>>>>>> origin/new-bennett
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 5845420510230249743}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -2631,72 +1621,12 @@ BoxCollider2D:
   TmxRotation: 0
 --- !u!61 &2178146127177099987
 BoxCollider2D:
-=======
-  m_GameObject: {fileID: 5720936970857394275}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 7.9861, y: -56.597}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 15.9722, y: 113.194}
-  m_EdgeRadius: 0
---- !u!1 &6162145749253601194
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8404595244397221095}
-  - component: {fileID: 5426018783186449324}
-  m_Layer: 0
-  m_Name: untitled
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &8404595244397221095
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6162145749253601194}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1654873440037190209}
-  - {fileID: 752005575469281772}
-  - {fileID: 8094789577056208415}
-  - {fileID: 4604450122659298066}
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5426018783186449324
-MonoBehaviour:
->>>>>>> origin/new-bennett
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5845420510230249743}
   m_Enabled: 1
-<<<<<<< HEAD
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -2716,26 +1646,6 @@ MonoBehaviour:
   m_Size: {x: 15.9722, y: 61.8056}
   m_EdgeRadius: 0
 --- !u!1 &6025183534538489214
-=======
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c0619e460a775cc458d37cb4a214a189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Orientation: 0
-  StaggerAxis: 1
-  StaggerIndex: 0
-  HexSideLength: 0
-  NumLayers: 3
-  NumTilesWide: 25
-  NumTilesHigh: 25
-  TileWidth: 16
-  TileHeight: 16
-  ExportScale: 1
-  MapWidthInPixels: 400
-  MapHeightInPixels: 400
-  BackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
---- !u!1 &6391038819477896061
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2743,15 +1653,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 830405535258201783}
   - component: {fileID: 8732795673592022064}
   - component: {fileID: 3328743444540293377}
-=======
-  - component: {fileID: 3106676943630921193}
-  - component: {fileID: 4458248309512230946}
-  - component: {fileID: 4195307454417461357}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -2759,76 +1663,52 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &830405535258201783
-=======
---- !u!4 &3106676943630921193
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6025183534538489214}
-=======
-  m_GameObject: {fileID: 6391038819477896061}
->>>>>>> origin/new-bennett
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 304.167, y: -31.9444, z: 0}
+  m_LocalPosition: {x: 80.5556, y: -15.2778, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 8
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!114 &8732795673592022064
-=======
---- !u!114 &4458248309512230946
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6025183534538489214}
-=======
-  m_GameObject: {fileID: 6391038819477896061}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TmxId: 24
+  TmxId: 20
   TmxName: 
   TmxType: 
-  TmxPosition: {x: 304.167, y: 31.9444}
-  TmxSize: {x: 29.8611, y: 31.9444}
+  TmxPosition: {x: 80.5556, y: 15.2778}
+  TmxSize: {x: 46.5278, y: 46.5278}
   TmxRotation: 0
-<<<<<<< HEAD
 --- !u!61 &3328743444540293377
-=======
---- !u!61 &4195307454417461357
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6025183534538489214}
-=======
-  m_GameObject: {fileID: 6391038819477896061}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 14.93055, y: -15.9722}
+  m_Offset: {x: 23.2639, y: -23.2639}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2839,9 +1719,8 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 29.8611, y: 31.9444}
+  m_Size: {x: 46.5278, y: 46.5278}
   m_EdgeRadius: 0
-<<<<<<< HEAD
 --- !u!1 &6162145749253601194
 GameObject:
   m_ObjectHideFlags: 0
@@ -2903,9 +1782,6 @@ MonoBehaviour:
   MapHeightInPixels: 400
   BackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
 --- !u!1 &6557906700803039222
-=======
---- !u!1 &6531102714829326918
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2913,15 +1789,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 2644835917298309007}
   - component: {fileID: 3630478529291095593}
   - component: {fileID: 4135491738669527455}
-=======
-  - component: {fileID: 1387472638381890048}
-  - component: {fileID: 3578548304196459824}
-  - component: {fileID: 1924328994780061130}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -2929,17 +1799,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &2644835917298309007
-=======
---- !u!4 &1387472638381890048
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6557906700803039222}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 159.028, y: -128.472, z: 0}
@@ -2949,33 +1814,17 @@ Transform:
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3630478529291095593
-=======
-  m_GameObject: {fileID: 6531102714829326918}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 160.417, y: -15.2778, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3578548304196459824
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6557906700803039222}
-=======
-  m_GameObject: {fileID: 6531102714829326918}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 14
   TmxName: 
   TmxType: 
@@ -2983,36 +1832,19 @@ MonoBehaviour:
   TmxSize: {x: 15.9722, y: 110.417}
   TmxRotation: 0
 --- !u!61 &4135491738669527455
-=======
-  TmxId: 21
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 160.417, y: 15.2778}
-  TmxSize: {x: 47.2222, y: 32.6389}
-  TmxRotation: 0
---- !u!61 &1924328994780061130
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6557906700803039222}
-=======
-  m_GameObject: {fileID: 6531102714829326918}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 7.9861, y: -55.2085}
-=======
-  m_Offset: {x: 23.6111, y: -16.31945}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3023,15 +1855,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 15.9722, y: 110.417}
   m_EdgeRadius: 0
 --- !u!1 &6978999108089678709
-=======
-  m_Size: {x: 47.2222, y: 32.6389}
-  m_EdgeRadius: 0
---- !u!1 &7135631455840010748
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3039,15 +1865,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 186157185571258450}
   - component: {fileID: 7286991310518093711}
   - component: {fileID: 617246018278042283}
-=======
-  - component: {fileID: 6577499303127547696}
-  - component: {fileID: 3801309399081086151}
-  - component: {fileID: 8787004913411253272}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -3055,21 +1875,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &186157185571258450
-=======
---- !u!4 &6577499303127547696
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6978999108089678709}
-=======
-  m_GameObject: {fileID: 7135631455840010748}
->>>>>>> origin/new-bennett
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 81.25, y: -128.472, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -3077,21 +1889,13 @@ Transform:
   m_Father: {fileID: 4604450122659298066}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!114 &7286991310518093711
-=======
---- !u!114 &3801309399081086151
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6978999108089678709}
-=======
-  m_GameObject: {fileID: 7135631455840010748}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
@@ -3103,21 +1907,13 @@ MonoBehaviour:
   TmxPosition: {x: 81.25, y: 128.472}
   TmxSize: {x: 253.472, y: 15.9722}
   TmxRotation: 0
-<<<<<<< HEAD
 --- !u!61 &617246018278042283
-=======
---- !u!61 &8787004913411253272
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 6978999108089678709}
-=======
-  m_GameObject: {fileID: 7135631455840010748}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -3137,7 +1933,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 253.472, y: 15.9722}
   m_EdgeRadius: 0
-<<<<<<< HEAD
 --- !u!1 &7643088904805090558
 GameObject:
   m_ObjectHideFlags: 0
@@ -3184,9 +1979,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Offset: {x: 0, y: 0}
 --- !u!1 &7914158232281256360
-=======
---- !u!1 &7183829499841459180
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3194,15 +1986,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 5740707604850004175}
   - component: {fileID: 7101211372380592438}
   - component: {fileID: 1923245405023631280}
-=======
-  - component: {fileID: 6816174456433707375}
-  - component: {fileID: 82600868847500310}
-  - component: {fileID: 1506862685425633699}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -3210,76 +1996,52 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &5740707604850004175
-=======
---- !u!4 &6816174456433707375
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 7914158232281256360}
-=======
-  m_GameObject: {fileID: 7183829499841459180}
->>>>>>> origin/new-bennett
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 31.9444, y: -31.25, z: 0}
+  m_LocalPosition: {x: 65.2778, y: -296.528, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 7
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!114 &7101211372380592438
-=======
---- !u!114 &82600868847500310
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 7914158232281256360}
-=======
-  m_GameObject: {fileID: 7183829499841459180}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TmxId: 19
+  TmxId: 9
   TmxName: 
   TmxType: 
-  TmxPosition: {x: 31.9444, y: 31.25}
-  TmxSize: {x: 31.25, y: 46.5278}
+  TmxPosition: {x: 65.2778, y: 296.528}
+  TmxSize: {x: 11.8056, y: 29.1667}
   TmxRotation: 0
-<<<<<<< HEAD
 --- !u!61 &1923245405023631280
-=======
---- !u!61 &1506862685425633699
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 7914158232281256360}
-=======
-  m_GameObject: {fileID: 7183829499841459180}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 15.625, y: -23.2639}
+  m_Offset: {x: 5.9028, y: -14.58335}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3290,12 +2052,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 31.25, y: 46.5278}
+  m_Size: {x: 11.8056, y: 29.1667}
   m_EdgeRadius: 0
-<<<<<<< HEAD
 --- !u!1 &8109463579856959995
-=======
---- !u!1 &7643088904805090558
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3303,61 +2062,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1654873440037190209}
-  - component: {fileID: 5977920977904647456}
-  m_Layer: 0
-  m_Name: Ground
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1654873440037190209
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7643088904805090558}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 14041614152337295}
-  m_Father: {fileID: 8404595244397221095}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5977920977904647456
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7643088904805090558}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Offset: {x: 0, y: 0}
---- !u!1 &8039344590169161888
->>>>>>> origin/new-bennett
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-<<<<<<< HEAD
   - component: {fileID: 1389823739873497600}
   - component: {fileID: 5723809594475560503}
   - component: {fileID: 6236748051879491852}
-=======
-  - component: {fileID: 7940301873282176821}
-  - component: {fileID: 1316519712429448604}
-  - component: {fileID: 7316266113095928127}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -3365,17 +2072,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &1389823739873497600
-=======
---- !u!4 &7940301873282176821
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8109463579856959995}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 97.2222, y: -261.806, z: 0}
@@ -3385,33 +2087,17 @@ Transform:
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5723809594475560503
-=======
-  m_GameObject: {fileID: 8039344590169161888}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 382.639, y: -2.77778, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1316519712429448604
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8109463579856959995}
-=======
-  m_GameObject: {fileID: 8039344590169161888}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 8
   TmxName: 
   TmxType: 
@@ -3419,36 +2105,19 @@ MonoBehaviour:
   TmxSize: {x: 13.8889, y: 26.3889}
   TmxRotation: 0
 --- !u!61 &6236748051879491852
-=======
-  TmxId: 3
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 382.639, y: 2.77778}
-  TmxSize: {x: 16.6667, y: 396.528}
-  TmxRotation: 0
---- !u!61 &7316266113095928127
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8109463579856959995}
-=======
-  m_GameObject: {fileID: 8039344590169161888}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 6.94445, y: -13.19445}
-=======
-  m_Offset: {x: 8.33335, y: -198.264}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3459,15 +2128,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 13.8889, y: 26.3889}
   m_EdgeRadius: 0
 --- !u!1 &8381852368281038772
-=======
-  m_Size: {x: 16.6667, y: 396.528}
-  m_EdgeRadius: 0
---- !u!1 &8082436769922099257
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3475,15 +2138,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 8316468103800699158}
   - component: {fileID: 7948345918878889266}
   - component: {fileID: 7333976919340097537}
-=======
-  - component: {fileID: 6678415792447191779}
-  - component: {fileID: 3389283214458372120}
-  - component: {fileID: 8611828650029927414}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -3491,17 +2148,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &8316468103800699158
-=======
---- !u!4 &6678415792447191779
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8381852368281038772}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 176.389, y: -146.528, z: 0}
@@ -3511,33 +2163,17 @@ Transform:
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7948345918878889266
-=======
-  m_GameObject: {fileID: 8082436769922099257}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 129.167, y: -294.444, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 18
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3389283214458372120
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8381852368281038772}
-=======
-  m_GameObject: {fileID: 8082436769922099257}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 15
   TmxName: 
   TmxType: 
@@ -3545,36 +2181,19 @@ MonoBehaviour:
   TmxSize: {x: 14.5833, y: 38.1944}
   TmxRotation: 0
 --- !u!61 &7333976919340097537
-=======
-  TmxId: 11
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 129.167, y: 294.444}
-  TmxSize: {x: 13.8889, y: 34.0278}
-  TmxRotation: 0
---- !u!61 &8611828650029927414
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8381852368281038772}
-=======
-  m_GameObject: {fileID: 8082436769922099257}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< HEAD
   m_Offset: {x: 7.29165, y: -19.0972}
-=======
-  m_Offset: {x: 6.94445, y: -17.0139}
->>>>>>> origin/new-bennett
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3585,15 +2204,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Size: {x: 14.5833, y: 38.1944}
   m_EdgeRadius: 0
 --- !u!1 &8840842692574778093
-=======
-  m_Size: {x: 13.8889, y: 34.0278}
-  m_EdgeRadius: 0
---- !u!1 &8374703899393709127
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3601,15 +2214,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 8541493765721356367}
   - component: {fileID: 4654989405411289783}
   - component: {fileID: 5463311444879726437}
-=======
-  - component: {fileID: 4199150484419223530}
-  - component: {fileID: 2691665538916060555}
-  - component: {fileID: 7207817330098000905}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -3617,21 +2224,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &8541493765721356367
-=======
---- !u!4 &4199150484419223530
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8840842692574778093}
-=======
-  m_GameObject: {fileID: 8374703899393709127}
->>>>>>> origin/new-bennett
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 176.389, y: -368.056, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -3639,21 +2238,13 @@ Transform:
   m_Father: {fileID: 4604450122659298066}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!114 &4654989405411289783
-=======
---- !u!114 &2691665538916060555
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8840842692574778093}
-=======
-  m_GameObject: {fileID: 8374703899393709127}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
@@ -3665,21 +2256,13 @@ MonoBehaviour:
   TmxPosition: {x: 176.389, y: 368.056}
   TmxSize: {x: 29.1667, y: 15.9722}
   TmxRotation: 0
-<<<<<<< HEAD
 --- !u!61 &5463311444879726437
-=======
---- !u!61 &7207817330098000905
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 8840842692574778093}
-=======
-  m_GameObject: {fileID: 8374703899393709127}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -3699,11 +2282,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 29.1667, y: 15.9722}
   m_EdgeRadius: 0
-<<<<<<< HEAD
 --- !u!1 &9190921955681866440
-=======
---- !u!1 &8774928536902347939
->>>>>>> origin/new-bennett
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3711,15 +2290,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 6267053481744550806}
   - component: {fileID: 7881943227242103084}
   - component: {fileID: 5311729960741528090}
-=======
-  - component: {fileID: 3353676698059806316}
-  - component: {fileID: 8659711059089569601}
-  - component: {fileID: 4991875729210619189}
->>>>>>> origin/new-bennett
   m_Layer: 0
   m_Name: RectangleObject
   m_TagString: Untagged
@@ -3727,17 +2300,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &6267053481744550806
-=======
---- !u!4 &3353676698059806316
->>>>>>> origin/new-bennett
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 9190921955681866440}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.694444, y: -3.47222, z: 0}
@@ -3747,33 +2315,17 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7881943227242103084
-=======
-  m_GameObject: {fileID: 8774928536902347939}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 65.2778, y: -296.528, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 19
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8659711059089569601
->>>>>>> origin/new-bennett
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 9190921955681866440}
-=======
-  m_GameObject: {fileID: 8774928536902347939}
->>>>>>> origin/new-bennett
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   TmxId: 6
   TmxName: 
   TmxType: 
@@ -3781,107 +2333,12 @@ MonoBehaviour:
   TmxSize: {x: 15.2778, y: 397.917}
   TmxRotation: 0
 --- !u!61 &5311729960741528090
-=======
-  TmxId: 9
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: 65.2778, y: 296.528}
-  TmxSize: {x: 11.8056, y: 29.1667}
-  TmxRotation: 0
---- !u!61 &4991875729210619189
->>>>>>> origin/new-bennett
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 9190921955681866440}
-=======
-  m_GameObject: {fileID: 8774928536902347939}
->>>>>>> origin/new-bennett
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-<<<<<<< HEAD
-  m_Offset: {x: 7.6389, y: -198.9585}
-=======
-  m_Offset: {x: 5.9028, y: -14.58335}
->>>>>>> origin/new-bennett
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-<<<<<<< HEAD
-=======
-  m_Size: {x: 11.8056, y: 29.1667}
-  m_EdgeRadius: 0
---- !u!1 &8794666086928730133
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2084080694951624842}
-  - component: {fileID: 4339059653586175792}
-  - component: {fileID: 146642287135308217}
-  m_Layer: 0
-  m_Name: RectangleObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2084080694951624842
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8794666086928730133}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.694444, y: -3.47222, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 4604450122659298066}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4339059653586175792
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8794666086928730133}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TmxId: 6
-  TmxName: 
-  TmxType: 
-  TmxPosition: {x: -0.694444, y: 3.47222}
-  TmxSize: {x: 15.2778, y: 397.917}
-  TmxRotation: 0
---- !u!61 &146642287135308217
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8794666086928730133}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -3899,6 +2356,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
->>>>>>> origin/new-bennett
   m_Size: {x: 15.2778, y: 397.917}
   m_EdgeRadius: 0
