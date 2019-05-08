@@ -15,6 +15,7 @@ public class InteractionObject : MonoBehaviour
         {
             soundSource = GetComponent<AudioSource>();
             soundSource.Play();
+
         }
         else
         {
