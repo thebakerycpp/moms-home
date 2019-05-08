@@ -42,6 +42,7 @@ public class ClothesInventory : MonoBehaviour
             if (inventory[i] != null)
             {
                 inventory[i] = null;
+                break;
             }
         }
     }
