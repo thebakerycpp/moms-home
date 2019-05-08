@@ -13,6 +13,9 @@ TagManager:
   - cleanPlate
   - plate
   - table
+  - sink
+  - dirtyDishes
+  - cleanDishes
   layers:
   - Default
   - TransparentFX
