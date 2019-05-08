@@ -145,6 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &947117
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -378,6 +379,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &142077104
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -673,6 +675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &245653133
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -997,6 +1000,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 0
+  audiosource: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1219,6 +1223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!1001 &544010047
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1335,6 +1340,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &647594889
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1445,6 +1451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 0
+  audiosource: {fileID: 0}
 --- !u!61 &655292618
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1566,6 +1573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &697847882
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1799,6 +1807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &771594492
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1936,6 +1945,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!212 &801075880
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2056,6 +2066,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &807922739
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2267,6 +2278,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 0
+  audiosource: {fileID: 0}
 --- !u!1 &962826443
 GameObject:
   m_ObjectHideFlags: 0
@@ -2300,6 +2312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!61 &962826445
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2543,6 +2556,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1042956819
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2654,6 +2668,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1141053551
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2884,6 +2899,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1209764320
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2994,6 +3010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1266042095
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3105,6 +3122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1325848632
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3229,6 +3247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1336951668
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3852,6 +3871,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!1 &1435223872
 GameObject:
   m_ObjectHideFlags: 0
@@ -3884,6 +3904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1435223874
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3994,6 +4015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1451548260
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -4319,6 +4341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1477382750
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -4409,6 +4432,7 @@ GameObject:
   - component: {fileID: 1530253247}
   - component: {fileID: 1530253246}
   - component: {fileID: 1530253245}
+  - component: {fileID: 1530253249}
   m_Layer: 0
   m_Name: Washing Machine
   m_TagString: washingMachine
@@ -4455,6 +4479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!212 &1530253247
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4517,6 +4542,102 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1530253249
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530253244}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: cfa9f5aaa356d7b4bbe30790af270cbd, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1567999080
 GameObject:
   m_ObjectHideFlags: 0
@@ -4640,6 +4761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!1 &1645181222
 GameObject:
   m_ObjectHideFlags: 0
@@ -4672,6 +4794,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &1645181224
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5225,6 +5348,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 0
+  audiosource: {fileID: 0}
 --- !u!212 &1924407483
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5319,6 +5443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 1
+  audiosource: {fileID: 0}
 --- !u!58 &2036922051
 CircleCollider2D:
   m_ObjectHideFlags: 0
