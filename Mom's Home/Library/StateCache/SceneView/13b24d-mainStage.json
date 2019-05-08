@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":true,"pivot":{"x":5.510027885437012,"y":-9.346125602722168,"z":1.268997073173523},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":24.666982650756837,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":true,"pivot":{"x":3.9518375396728517,"y":-9.519420623779297,"z":0.458984375},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.057267189025879,"orthographic":true}
+>>>>>>> steven

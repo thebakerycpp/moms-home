@@ -1,10 +1,19 @@
 ﻿Tiled2Unity
+<<<<<<< HEAD
 Copyright (C) 2014 Sean Barton (http://www.seanba.com)
 
 
 
 MIT License
 
+=======
+Copyright (C) 2014 Sean Barton (http://www.seanba.com)
+
+
+
+MIT License
+
+>>>>>>> steven
 
 
 Permission is hereby granted, free of charge, to any person obtaining

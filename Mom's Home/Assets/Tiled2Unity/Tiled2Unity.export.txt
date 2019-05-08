@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!-- Do not modify this file by hand. -->
 <!-- This file is needed by the Tiled2Unity Utility exporter -->
@@ -6,4 +7,14 @@
 		author="Sean Barton"
 		version="1.0.13.2"
 	/>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Do not modify this file by hand. -->
+<!-- This file is needed by the Tiled2Unity Utility exporter -->
+<Tiled2UnityImporter>
+	<Header
+		author="Sean Barton"
+		version="1.0.13.2"
+	/>
+>>>>>>> steven
 </Tiled2UnityImporter>

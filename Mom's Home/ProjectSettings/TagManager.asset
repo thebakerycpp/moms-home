@@ -8,6 +8,17 @@ TagManager:
   - clothes
   - kitchenware
   - washingMachine
+<<<<<<< HEAD
+=======
+  - cookingPot
+  - ingredient
+  - cleanPlate
+  - plate
+  - table
+  - sink
+  - dirtyDishes
+  - cleanDishes
+>>>>>>> steven
   layers:
   - Default
   - TransparentFX
