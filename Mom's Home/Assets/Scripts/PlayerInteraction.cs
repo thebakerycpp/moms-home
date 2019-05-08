@@ -14,6 +14,8 @@ public class PlayerInteraction : MonoBehaviour
     public PlateInventory plateInventory;
     public DirtyDishBehavior dirtyDishes;
     public CleanDishBehavior cleanDishes;
+    public AudioClip blop;
+    public AudioClip dishPutDown;
     public AudioClip dishSound;
     public AudioClip itemSound;
     public AudioClip ingredientSound1;
@@ -31,6 +33,7 @@ public class PlayerInteraction : MonoBehaviour
             if (currentInterObjScript.inventory && currentInterObj.CompareTag("kitchenware"))
             {
                 kitchenwareInventory.AddItem(currentInterObj);
+                soundSource.clip = itemSound;
                 soundSource.Play();
                 Debug.Log("Kitchenware picked up");
                 currentInterObj.SendMessage("DoInteraction");
@@ -71,6 +74,7 @@ public class PlayerInteraction : MonoBehaviour
                 else
                 {
                     Debug.Log("Deposited clothes in washing machine, this will take some time...");
+                    currentInterObj.SendMessage("DoInteraction");
                     for (int i = 0; i < 5; i++)
                     {
                         clothesInventory.deleteItem();
@@ -120,6 +124,8 @@ public class PlayerInteraction : MonoBehaviour
                 }
                 else
                 {
+                    soundSource.clip = dishPutDown;
+                    soundSource.Play();
                     dirtyDishes.addDish();
                     plateInventory.deleteDirty();
                 }
@@ -132,6 +138,8 @@ public class PlayerInteraction : MonoBehaviour
                 }
                 else
                 {
+                    soundSource.clip = blop;
+                    soundSource.Play();
                     dirtyDishes.removeDish();
                     cleanDishes.addDish();
                 }
@@ -144,6 +152,8 @@ public class PlayerInteraction : MonoBehaviour
                 }
                 else
                 {
+                    soundSource.clip = dishSound;
+                    soundSource.Play();
                     cleanDishes.removeDish();
                     plateInventory.AddCleanPlate();
                 }

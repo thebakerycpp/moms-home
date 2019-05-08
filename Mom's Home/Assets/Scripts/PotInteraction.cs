@@ -59,7 +59,7 @@ public class PotInteraction : MonoBehaviour
 
     public void startTimer()
     {
-        timer = 10;
+        timer = 3000;
         cooking = true;
         sr.sprite = fullPot;
     }
